@@ -1,0 +1,1 @@
+export type If<R, A, B> = R extends true ? A : B
